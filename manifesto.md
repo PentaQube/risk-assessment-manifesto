@@ -1,0 +1,17 @@
+- ### **Principles of Risk Assessment**
+	- **Risk Assessments Are for Informed Decision-Making**
+		- If a risk assessment doesn't aid our decisions, we choose not to conduct it.
+	- **Risks Should Be Clear and Simple**
+		- We define, clarify, and simplify risks to be understood by everyone, not just the assessors.
+	- **Only Validated Risks in the Register**
+		- We ensure all risks are verified before adding them, maintaining the integrity of our risk register.
+	- **One Risk Register for the Entire Organization**
+		- One organization, one risk register, fostering consistency and cohesion.
+	- **Capture Risks Proactively at the Source**
+		- We document risks as soon as they emerge, not months later.
+	- **Value Context Over Processes**
+		- Understanding the environment of a risk guides us more than strict adherence to procedures.
+	- **Quantify High-Stake Risks**
+		- Significant risks deserve accurate measurement to inform our strategies.
+	- **Recognize the Limitations of Qualitative Risk Assessments**
+		- We approach qualitative risk evaluations with awareness, understanding their constraints.
