@@ -4,3 +4,5 @@
 
 This repo outlines the basic principles to follow while conducting a risk assessment.
 Feel free to use these principles in your organisation.
+
+Access the principles of the manifesto [here](https://pentaqube.github.io/risk-assessment-manifesto/). Do you want to present the manifesto to your team? Download the presentation from [here](RA_Manifesto.pdf).
